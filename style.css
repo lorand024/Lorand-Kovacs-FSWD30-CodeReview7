@@ -1,0 +1,51 @@
+.container #bigList .ppl {
+	border: 1px solid white;
+	padding: 5px;
+	margin: 5px;
+}
+
+
+.ppl {
+	background-color: #D5C0D9;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+.ppl img {
+	width: 115px;
+	height: 150px;
+}
+
+#bigList {
+	width: 100%;
+}
+
+#bigList div {
+  width: 250px;
+  float: left;
+  min-height:  200px; 
+}
+
+#hearth {
+	width: 25px;
+	height: 25px;
+}
+
+.head {
+	background-color: #7B238A;
+	display: flex;
+	justify-content: center;
+}
+
+.jumbotron {
+	height: 500px;
+	background-image: url("img/compur.jpg");
+	background-repeat: no-repeat;
+	color: white;
+}
+
+.foot {
+	display: flex;
+	justify-content: center;
+	padding-top: 10px;
+}
